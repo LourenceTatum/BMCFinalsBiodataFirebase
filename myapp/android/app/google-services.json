@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688422863743",
+    "project_id": "tatum2",
+    "storage_bucket": "tatum2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688422863743:android:795a44d99b32ac11b7504a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzEf9KJRGgCwEjq4JYgtI6Cay3ajwMck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
